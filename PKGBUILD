@@ -78,7 +78,7 @@ pkgdesc="${_pkgdesc[*]}"
 url="https://${_pkg}.${_Proj}.org"
 pkgver="0.0.0.0.0.0.0.0.0.0.1"
 _commit="7ded7406b6ae8386f0168c67067c648be46da784"
-pkgrel=1
+pkgrel=2
 arch=(
   'any'
 )
